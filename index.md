@@ -22,6 +22,6 @@ This portfolio includes my code review as well as three enhanced software develo
 
 - [Artifact One: Software Design and Engineering](Artifact1/)
 - [Artifact Two: Algorithms and Data Structures](Artifact2/)
-- Databases
+- [Artifact Three: Databases](Artifact3/)
 
 Each enhancement demonstrates my problem-solving abilities, technical skills, and growth throughout the Computer Science program.
