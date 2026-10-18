@@ -12,8 +12,8 @@ Insert Assessment here*
 
 This portfolio includes my code review as well as three enhanced software development artifacts in the following categories:
 
--Software Design and Engineering
--Algorithms and Data Structures
--Databases
+- Software Design and Engineering
+- Algorithms and Data Structures
+- Databases
 
 Each enhancement demonstrates my problem-solving abilities, technical skills, and growth throughout the Computer Science program.
