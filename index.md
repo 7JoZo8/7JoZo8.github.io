@@ -21,7 +21,7 @@ This review covers software design and engineering, algorithms and data structur
 This portfolio includes my code review as well as three enhanced software development artifacts in the following categories:
 
 - [Artifact One: Software Design and Engineering](Artifact1/)
-- Algorithms and Data Structures
+- [Artifact Two: Algorithms and Data Structures](Artifact2/)
 - Databases
 
 Each enhancement demonstrates my problem-solving abilities, technical skills, and growth throughout the Computer Science program.
