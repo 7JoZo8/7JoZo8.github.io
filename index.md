@@ -12,7 +12,7 @@ Insert Assessment here*
 
 This portfolio includes my code review as well as three enhanced software development artifacts in the following categories:
 
-- Software Design and Engineering
+- [Artifact One: Software Design and Engineering](Artifact1/)
 - Algorithms and Data Structures
 - Databases
 
