@@ -25,3 +25,11 @@ This portfolio includes my code review as well as three enhanced software develo
 - [Artifact Three: Databases](Artifact3/)
 
 Each enhancement demonstrates my problem-solving abilities, technical skills, and growth throughout the Computer Science program.
+
+## Enhancement Planning and Development
+
+Before completing my three artifact enhancements, I developed an enhancement plan outlining the improvements I intended to make to each program.
+
+This document includes my original goals, my proposed technical changes, pseudocode, and the course outcomes I planned to achieve, providing insight into my planning process and how my ideas developed into the completed enhancements presented in this ePortfolio.
+
+[View My Original Enhancement Plan](Original_Enhancement_Plan.docx/)
