@@ -32,4 +32,4 @@ Before completing my three artifact enhancements, I developed an enhancement pla
 
 This document includes my original goals, my proposed technical changes, pseudocode, and the course outcomes I planned to achieve, providing insight into my planning process and how my ideas developed into the completed enhancements presented in this ePortfolio.
 
-[View My Original Enhancement Plan](Original_Enhancement_Plan.docx/)
+[Download My Original Enhancement Plan](Original_Enhancement_Plan.docx/)
