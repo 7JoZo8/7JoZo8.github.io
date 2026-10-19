@@ -2,7 +2,8 @@
 
 [Return to ePortfolio Home](../)
 
-Professional Self-Assessment
+## Professional Self-Assessment
+
 Throughout my time in the Computer Science program at Southern New Hampshire University, I have developed a stronger understanding of software development, problem-solving, and how different technologies connect and work together to create functional applications. When I first entered the program, I was primarily focused on learning how to write code and make individual programs work correctly. As I progressed through my coursework, I began to understand the importance of looking at the bigger picture when developing software. I learned to consider how different components interact, how software can be designed to remain reliable, efficient, and maintainable, and how technical decisions affect the overall application. Completing this ePortfolio has given me the opportunity to reflect on that growth while improving projects that represent important skills I developed throughout my degree.
 
 An area in which I have grown is collaboration and considering different perspectives when solving technical problems. Although my coursework did not involve extensive group assignments, I participated in class discussions where I could exchange ideas with other students taking the same course. Having these conversations provided me with opportunities to share my own approaches to programming while learning from the experiences and perspectives of my classmates. One of the most valuable lessons I took from the discussions was the importance of thinking about the bigger picture instead of focusing entirely on an individual section of code. I have applied this mindset throughout my coursework by considering how programming decisions affect other components of an application. These experiences helped me recognize how collaboration and exchanging ideas can contribute to more informed decisions and better solutions.
