@@ -6,7 +6,7 @@ This portfolio showcases the skills and knowledge I have developed throughout my
 
 ## Professional Self-Assessment
 
-Insert Assessment here*
+[Download My Professional Self-Assessment](Professional_Self_Assessment.docx/)
 
 ## Code Review
 
